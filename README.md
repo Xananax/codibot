@@ -1,2 +1,0 @@
-# codibot
-Created with CodeSandbox
